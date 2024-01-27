@@ -1,4 +1,4 @@
 # khushi
 This is my first Git Repository.
 <br>
-Author - Khushi Mandal
+Author - Khushi(Padma Kanya)
